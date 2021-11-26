@@ -1,0 +1,3 @@
+kali@kali:~/Desktop/Python Programs/DCT-Image-Steganography-main$ sudo python3 run_stego_algorithm.py
+kali@kali:~/Desktop/Python Programs/DCT-Image-Steganography-main$ sudo python3 extract_stego_image.py
+Rohan
